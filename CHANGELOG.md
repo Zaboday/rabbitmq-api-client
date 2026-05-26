@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog][keepachangelog] and this project adher
 ### Fixed
 
 - Deprecated implicit marking of parameter as nullable
+
 ## v2.8.0
 
 ### Added
