@@ -8,7 +8,7 @@ The format is based on [Keep a Changelog][keepachangelog] and this project adher
 
 ### Changed
 
-- Fixed implicit nullable parameter deprecations on PHP `8.4`
+- Fixed implicit nullable parameter deprecations on PHP version `8.4`
 
 ## v2.8.0
 
