@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog][keepachangelog] and this project adheres to [Semantic Versioning][semver].
 
+## Unreleased
+
+### Changed
+
+- Fixed implicit nullable parameter deprecations on PHP `8.4`
+
 ## v2.8.0
 
 ### Added
