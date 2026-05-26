@@ -6,10 +6,9 @@ The format is based on [Keep a Changelog][keepachangelog] and this project adher
 
 ## Unreleased
 
-### Changed
+### Fixed
 
-- Fixed implicit nullable parameter deprecations on PHP version `8.4`
-
+- Deprecated implicit marking of parameter as nullable
 ## v2.8.0
 
 ### Added
