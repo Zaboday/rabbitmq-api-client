@@ -27,9 +27,9 @@ jobs: # Docs: <https://git.io/JvxXE>
             setup: [ basic, lowest ]
             coverage: no
             laravel: '^10.0'
-          - php: '8.4'
-            setup: [ basic ]
-            coverage: no
+        exclude:
+          - php: 8.4
+            dependency-version: prefer-lowest
     steps:
       - name: Check out code
         uses: actions/checkout@v4
