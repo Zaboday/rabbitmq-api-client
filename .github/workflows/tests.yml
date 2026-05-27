@@ -28,8 +28,8 @@ jobs: # Docs: <https://git.io/JvxXE>
             coverage: no
             laravel: '^10.0'
         exclude:
-          - php: 8.4
-            dependency-version: prefer-lowest
+          - php: '8.4'
+            dependency-version: 'lowest'
     steps:
       - name: Check out code
         uses: actions/checkout@v4
