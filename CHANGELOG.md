@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog][keepachangelog] and this project adher
 
 ## Unreleased
 
+### Changed
+
+- Minimal `guzzlehttp/guzzle` version now is `7,10`
+- Minimal `phpstan/phpstan` version now is `1.12.27`
+
 ### Fixed
 
 - Deprecated implicit marking of parameter as nullable
